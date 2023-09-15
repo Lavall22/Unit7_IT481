@@ -1,0 +1,8 @@
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\obj\Debug\Unit7_IT481.csproj.AssemblyReference.cache
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\obj\Debug\Unit7_IT481.csproj.SuggestedBindingRedirects.cache
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\obj\Debug\Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\bin\Debug\Unit7_IT481.exe.config
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\bin\Debug\Unit7_IT481.exe
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\bin\Debug\Unit7_IT481.pdb
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\obj\Debug\Unit7_IT481.exe
+C:\Users\User 1\source\repos\Unit7_IT481\Unit7_IT481\obj\Debug\Unit7_IT481.pdb
